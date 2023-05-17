@@ -22,7 +22,7 @@ This script is designed to fetch IP addresses from the Qualys API and use Nmap t
 3. Make the script executable by running the following command:
 
    ```bash
-   chmod +x cpanel_version_checker.sh
+   chmod +x ip.sh domain.sh
 Run the script:
 
 bash
