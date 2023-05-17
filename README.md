@@ -2,10 +2,6 @@
 The script automates Qualys data retrieval, detects cPanel versions, and assesses vulnerabilities efficiently.
 
 
-# cPanel Version Checker
-
-This script is designed to fetch IP addresses from the Qualys API and use Nmap to check the cPanel version on those IP addresses. It can help you identify the cPanel versions present in your network.
-
 ## Prerequisites
 
 - `bash` shell
